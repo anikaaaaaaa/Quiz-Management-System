@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Which testing is done without executing code?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "White Box Testing",
+    "option 4": "Static Testing",
+    "answerkey": "4"
+  },
+  {
+    "question": "What document describes test scope and approach?",
+    "option 1": "Test Plan",
+    "option 2": "Test Case",
+    "option 3": "Bug Report",
+    "option 4": "RTM",
+    "answerkey": "1"
+  },
+  {
+    "question": "Which testing checks interaction between modules?",
+    "option 1": "System Testing",
+    "option 2": "Integration Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Acceptance Testing",
+    "answerkey": "2"
+  },
+  {
+    "question": "STLC stands for?",
+    "option 1": "Software Testing Life Cycle",
+    "option 2": "System Test Life Cycle",
+    "option 3": "Software Technical Life Cycle",
+    "option 4": "System Technical Level Check",
+    "answerkey": "1"
+  },
+  {
+    "question": "Who performs UAT testing?",
+    "option 1": "Developer",
+    "option 2": "Tester",
+    "option 3": "Client/User",
+    "option 4": "Manager",
+    "answerkey": "3"
+  },
+  {
+    "question": "Bug severity is decided by?",
+    "option 1": "Developer",
+    "option 2": "Tester",
+    "option 3": "Client",
+    "option 4": "Project Manager",
+    "answerkey": "2"
+  },
+  {
+    "question": "Which testing focuses on user requirements?",
+    "option 1": "Regression",
+    "option 2": "Acceptance",
+    "option 3": "Smoke",
+    "option 4": "Unit",
+    "answerkey": "2"
+  },
+  {
+    "question": "Testing done after code change is?",
+    "option 1": "Smoke Testing",
+    "option 2": "Regression Testing",
+    "option 3": "Sanity Testing",
+    "option 4": "Performance Testing",
+    "answerkey": "2"
+  },
+  {
+    "question": "Black box testing is based on?",
+    "option 1": "Code",
+    "option 2": "Design",
+    "option 3": "Requirements",
+    "option 4": "Architecture",
+    "answerkey": "3"
+  },
+  {
+    "question": "Which is non-functional testing?",
+    "option 1": "Functional Testing",
+    "option 2": "UI Testing",
+    "option 3": "Performance Testing",
+    "option 4": "Unit Testing",
+    "answerkey": "3"
+  },
+  {
+    "question": "A document that maps requirements to test cases?",
+    "option 1": "Test Plan",
+    "option 2": "RTM",
+    "option 3": "Test Script",
+    "option 4": "Bug Sheet",
+    "answerkey": "2"
+  },
+  {
+    "question": "First level of testing is?",
+    "option 1": "System",
+    "option 2": "Integration",
+    "option 3": "Unit",
+    "option 4": "UAT",
+    "answerkey": "3"
+  },
+  {
+    "question": "Re-testing means?",
+    "option 1": "Testing new feature",
+    "option 2": "Testing fixed defect",
+    "option 3": "Testing performance",
+    "option 4": "Testing UI",
+    "answerkey": "2"
+  },
+  {
+    "question": "Which is white box technique?",
+    "option 1": "Boundary Value",
+    "option 2": "Decision Coverage",
+    "option 3": "Equivalence Partition",
+    "option 4": "Exploratory",
+    "answerkey": "2"
+  },
+  {
+    "question": "Smoke testing is also called?",
+    "option 1": "Build Verification",
+    "option 2": "Regression",
+    "option 3": "Load Testing",
+    "option 4": "Alpha Testing",
+    "answerkey": "1"
+  },
+  {
+    "question": "Alpha testing is performed by?",
+    "option 1": "End user",
+    "option 2": "Tester at client site",
+    "option 3": "Internal team",
+    "option 4": "Developer only",
+    "answerkey": "3"
+  },
+  {
+    "question": "Which finds maximum defects?",
+    "option 1": "Exploratory",
+    "option 2": "Automation only",
+    "option 3": "Random Testing",
+    "option 4": "Monkey Testing",
+    "answerkey": "1"
+  },
+  {
+    "question": "Test case contains?",
+    "option 1": "Steps and expected result",
+    "option 2": "Only code",
+    "option 3": "Only bug",
+    "option 4": "Only requirement",
+    "answerkey": "1"
+  },
+  {
+    "question": "Load testing checks?",
+    "option 1": "Functionality",
+    "option 2": "Security",
+    "option 3": "Performance under load",
+    "option 4": "UI design",
+    "answerkey": "3"
+  },
+  {
+    "question": "Which is manual testing tool?",
+    "option 1": "Selenium",
+    "option 2": "JIRA",
+    "option 3": "JUnit",
+    "option 4": "Postman only automation",
+    "answerkey": "2"
+  }
+]
