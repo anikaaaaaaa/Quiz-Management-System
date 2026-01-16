@@ -88,8 +88,6 @@ Admin Workflow
 
 3. Admin chooses to continue or exit
 
-Demonstration:
---
 Admin Panel Demo
 --
 
@@ -103,9 +101,7 @@ Student Workflow
 2. System loads 10 random questions
 3. Answers are validated instantly
 4. Final score is displayed with feedback
-
-Demonstration:
---
+   
 Student Panel Demo
 --
   
